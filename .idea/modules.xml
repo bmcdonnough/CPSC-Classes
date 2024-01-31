@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CPSC 2150 Git Hub/CPSC 2150 Git Hub.iml" filepath="$PROJECT_DIR$/CPSC 2150 Git Hub/CPSC 2150 Git Hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPSC 2151/CPSC 2151.iml" filepath="$PROJECT_DIR$/CPSC 2151/CPSC 2151.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CPSC Classes.iml" filepath="$PROJECT_DIR$/.idea/CPSC Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPSC 2151/Lab Exam 1/Lab Exam 1.iml" filepath="$PROJECT_DIR$/CPSC 2151/Lab Exam 1/Lab Exam 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPSC 2151/Lab8Starter/Lab8Starter.iml" filepath="$PROJECT_DIR$/CPSC 2151/Lab8Starter/Lab8Starter.iml" />
+    </modules>
+  </component>
+</project>
