@@ -1,0 +1,2 @@
+Total number of sentences: 5
+Total number of words: 45

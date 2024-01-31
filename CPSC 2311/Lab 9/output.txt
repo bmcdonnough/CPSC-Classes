@@ -1,0 +1,910 @@
+********************************************************************************
+
+LIST INFO: 
+Name: Jackson Hardy
+Date of Birth: December 3, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Keenan Grant
+Date of Birth: July 30, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Davis Little
+Date of Birth: August 15, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Shail Patel
+Date of Birth: July 20, 2000
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Non-Fiction
+
+Name: Jay Thompson
+Date of Birth: August 21, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Ryan Blumberg
+Date of Birth: December 27, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Horror
+
+Name: Kyanh Tran
+Date of Birth: April 3, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: Korey Bryant
+Date of Birth: September 19, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Lupton Claire
+Date of Birth: August 11, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Seamus McCollester
+Date of Birth: March 6, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Tyler Xing
+Date of Birth: July 25, 2001
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Non-Fiction
+
+Name: Benjamin McDonnough
+Date of Birth: November 2, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Non-Fiction
+
+Name: Hall Kinzie
+Date of Birth: February 20, 2004
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Isaac Paseltiner
+Date of Birth: January 4, 2004
+Degree: CSBA
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: Julia Lokerson
+Date of Birth: October 14, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Will Lovin
+Date of Birth: August 3, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: Hannah Jervis
+Date of Birth: January 21, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Romance
+
+Name: Taylor Carter
+Date of Birth: September 11, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Other
+
+Name: Selena Phan
+Date of Birth: October 17, 2003
+Degree: CSBA
+Class Standing: Sophomore
+Preferred Reading: Comic-Book
+
+Name: Grayson Whitaker
+Date of Birth: August 20, 2002
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+Name: Leo Danysh
+Date of Birth: June 4, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Other
+
+Name: Samuel Jordan
+Date of Birth: August 27, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Steven Plant
+Date of Birth: October 16, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Cary Dill
+Date of Birth: December 20, 1998
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Garrett Boling
+Date of Birth: February 3, 2002
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Non-Fiction
+
+Name: Owen Dover
+Date of Birth: May 28, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Other
+
+Name: Andrianna Arroyo
+Date of Birth: September 22, 2001
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+Name: Milaan Raj
+Date of Birth: January 1, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Non-Fiction
+
+Name: Alex Jorgensen
+Date of Birth: December 18, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Jonathan Sanchez-Vayas
+Date of Birth: March 9, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: Ethan Anderson
+Date of Birth: August 12, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Jerome Booth
+Date of Birth: March 31, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Curren Patel
+Date of Birth: July 24, 2004
+Degree: CISBS
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: Ivan  Brizo-Diaz
+Date of Birth: December 31, 2002
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Anthony Melnik
+Date of Birth: June 13, 1996
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Cookbook
+
+Name: Agilan Gunalan
+Date of Birth: April 1, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Romance-Novel
+
+Name: Paige Wasiela
+Date of Birth: September 28, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Romance
+
+Name: Dhruv Gupta
+Date of Birth: August 9, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Justin Silva
+Date of Birth: February 28, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Horror
+
+Name: Rowan Froeschner
+Date of Birth: July 5, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Historical-Fiction
+
+Name: Bode Hooker
+Date of Birth: April 26, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Comic-Book
+
+Name: Jacob Kage
+Date of Birth: September 26, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Taran Kavuru
+Date of Birth: April 7, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fantasy
+
+Name: David Johns
+Date of Birth: July 19, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: Alison Menezes
+Date of Birth: February 15, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Matthew Morfogen
+Date of Birth: April 17, 2003
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Autobiography
+
+Name: Caleb Murphy
+Date of Birth: May 22, 2001
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fiction
+
+Name: Mathew Breland
+Date of Birth: December 15, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Anthony Hay
+Date of Birth: January 18, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Armando Sallas
+Date of Birth: February 13, 2002
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Romance
+
+Name: Simon He
+Date of Birth: October 3, 1995
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Other
+
+Name: Taylor Boyles
+Date of Birth: May 11, 2001
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Mystery
+
+Name: Brianna Cherry
+Date of Birth: May 24, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Historical-Fiction
+
+Name: Ethan May
+Date of Birth: July 10, 2002
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Danny Ho
+Date of Birth: January 27, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: AJ Pope
+Date of Birth: August 11, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Russell Welch
+Date of Birth: September 19, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Nolan Miller
+Date of Birth: July 3, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Non-Fiction
+
+Name: Wilson Collins
+Date of Birth: April 13, 2002
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Andrew Hoover
+Date of Birth: August 25, 2003
+Degree: CISBS
+Class Standing: Sophomore
+Preferred Reading: Non-fiction
+
+Name: Gavin Garland
+Date of Birth: March 30, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Matthew Edgmon
+Date of Birth: August 6, 1996
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Other
+
+Name: Ryan Sands
+Date of Birth: September 13, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Colton Owenby
+Date of Birth: March 23, 1997
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Non-Fiction
+
+Name: Cole Britton
+Date of Birth: July 19, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Matthew Morfogen
+Date of Birth: April 17, 2003
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Autobiography
+
+Name: Chad Averette
+Date of Birth: October 24, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: George Dean III
+Date of Birth: October 19, 1998
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Horror
+
+Name: Braden Kroll
+Date of Birth: December 10, 2002
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Samuel Jordan
+Date of Birth: August 27, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Zachary Supina
+Date of Birth: April 9, 2001
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Owen Duggan
+Date of Birth: April 14, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Non-fiction
+
+Name: Christian Nelson
+Date of Birth: February 4, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Miguel Mejia
+Date of Birth: March 9, 1996
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Nathan Goller-Deitsch
+Date of Birth: October 17, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Non-fiction
+
+Name: Kwame Andre
+Date of Birth: April 19, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Mary Walker Felder
+Date of Birth: October 1, 2002
+Degree: CISBS
+Class Standing: Senior
+Preferred Reading: Fiction
+
+Name: Cassandra Phillips
+Date of Birth: December 2, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Horror
+
+Name: David Glover
+Date of Birth: October 22, 1995
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Historical-Fiction
+
+Name: Wilson Murphy
+Date of Birth: November 2, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Gracie Hine
+Date of Birth: September 28, 2002
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+Name: Garrett Boling
+Date of Birth: February 3, 2002
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Non-Fiction
+
+Name: McCollester Seamus
+Date of Birth: March 6, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Kyanh Tran
+Date of Birth: April 3, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: Logan Peters
+Date of Birth: September 15, 2001
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Christian Nybo
+Date of Birth: August 2, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Other
+
+Name: Philip Howe
+Date of Birth: February 2, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: Isaac Beres
+Date of Birth: May 29, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Action-Fiction
+
+Name: Cameron Craig
+Date of Birth: September 8, 2002
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Owen Mehle
+Date of Birth: May 24, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Hayden Roof
+Date of Birth: April 12, 2004
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Non-Fiction
+
+Name: Wasif Johar
+Date of Birth: June 4, 2002
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Mystery
+
+Name: Micheaux  Simmons
+Date of Birth: July 5, 2000
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Graphic-Novel
+
+Name: Michael McCuen
+Date of Birth: September 20, 2001
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+Name: Katelyn Racz
+Date of Birth: October 30, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Lucas Grijak
+Date of Birth: November 18, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Other
+
+Name: Alexander Korte
+Date of Birth: June 16, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Karina Castillo
+Date of Birth: January 14, 2000
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Drew Fey
+Date of Birth: January 6, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Non-Fiction
+
+Name: Sarah Scibelli
+Date of Birth: May 13, 2002
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+Name: Alexander Duncan
+Date of Birth: March 4, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: David Griffith
+Date of Birth: December 19, 2002
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Reese Myers
+Date of Birth: February 4, 2004
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+Name: Jacob Colson
+Date of Birth: November 28, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Bennett Starks
+Date of Birth: August 5, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: William Brown
+Date of Birth: November 12, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fantasy
+
+Name: Mathew  Breland
+Date of Birth: December 15, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Jack Huber
+Date of Birth: January 12, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Ellis Burt
+Date of Birth: July 2, 2004
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Eric Herrman
+Date of Birth: July 5, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fantasy
+
+Name: Joseph Becker
+Date of Birth: May 31, 1993
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Dev Patel
+Date of Birth: February 11, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Non-Fiction
+
+Name: Dakin MacPhail
+Date of Birth: January 22, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Action-Fiction
+
+Name: Korey Bryant
+Date of Birth: September 19, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Charles Spehl
+Date of Birth: March 9, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Romance
+
+Name: Dev Patel
+Date of Birth: February 11, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Non-fiction
+
+Name: Zacharia Strange
+Date of Birth: October 17, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Nihaal Vora
+Date of Birth: October 31, 2002
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Joseph Peter
+Date of Birth: May 2, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Meet Patel
+Date of Birth: February 16, 2003
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Non-fiction
+
+Name: Frank Yang
+Date of Birth: July 29, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Keegan Ryan
+Date of Birth: June 23, 2003
+Degree: CISBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Adrian Colaianni
+Date of Birth: March 26, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: Justin Kang
+Date of Birth: September 20, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Andrew Wenstrand
+Date of Birth: August 27, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Graphic-Novel
+
+Name: Brandon Marks
+Date of Birth: October 2, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Zacharia Strange
+Date of Birth: October 17, 2003
+Degree: CSBA
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Tylere Gauldin
+Date of Birth: June 11, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Graphic-Novel
+
+Name: Noah Nisbet
+Date of Birth: May 21, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Janvi Patel
+Date of Birth: February 18, 2004
+Degree: CISBS
+Class Standing: Sophomore
+Preferred Reading: Fantasy
+
+Name: Christian Brackett
+Date of Birth: November 29, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Will Lovin
+Date of Birth: August 3, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: Max Koon
+Date of Birth: September 29, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Non-Fiction
+
+Name: Alex Edwards
+Date of Birth: December 29, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: Sean Hermes
+Date of Birth: June 17, 2002
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fiction
+
+Name: Ethan Herman
+Date of Birth: September 11, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Other
+
+Name: Elle Hanckel
+Date of Birth: May 7, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: John Aragon
+Date of Birth: July 22, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Non-Fiction
+
+Name: Malachi Komisarek
+Date of Birth: December 10, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Other
+
+Name: Mar'Kus Elmore
+Date of Birth: October 11, 2001
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Mystery
+
+Name: Mikey Schoonmaker
+Date of Birth: May 12, 2003
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Nikki Chen
+Date of Birth: June 7, 2001
+Degree: CSBA
+Class Standing: Senior
+Preferred Reading: Fiction
+
+Name: Jake Williams
+Date of Birth: September 21, 2003
+Degree: CSBA
+Class Standing: Sophomore
+Preferred Reading: Cookbook
+
+Name: Abigail Clanton
+Date of Birth: February 28, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Mystery
+
+Name: William Gray
+Date of Birth: September 20, 2003
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fantasy
+
+Name: Isaac Hine
+Date of Birth: May 19, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fantasy
+
+Name: Grant Benson
+Date of Birth: May 13, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Horror
+
+Name: Jeff Branyon
+Date of Birth: August 31, 2004
+Degree: CSBS
+Class Standing: Sophomore
+Preferred Reading: Fiction
+
+Name: Justin Kang
+Date of Birth: September 20, 2002
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Action-Fiction
+
+Name: Bryce Planchard
+Date of Birth: July 17, 1983
+Degree: CSBS
+Class Standing: Junior
+Preferred Reading: Fiction
+
+Name: Kristen Wright
+Date of Birth: May 17, 1998
+Degree: CSBS
+Class Standing: Senior
+Preferred Reading: Fantasy
+
+********************************************************************************

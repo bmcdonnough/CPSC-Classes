@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     test
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003944, symSize: 0x114 }
+  - { offsetInCU: 0x53, offset: 0x53, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003944, symSize: 0x114 }
+  - { offsetInCU: 0x26, offset: 0x36A, size: 0x8, addend: 0x0, symName: _writeHeader, symObjAddr: 0x0, symBinAddr: 0x100003A58, symSize: 0x74 }
+  - { offsetInCU: 0x85, offset: 0x3C9, size: 0x8, addend: 0x0, symName: _writeHeader, symObjAddr: 0x0, symBinAddr: 0x100003A58, symSize: 0x74 }
+  - { offsetInCU: 0xB7, offset: 0x3FB, size: 0x8, addend: 0x0, symName: _writePixels, symObjAddr: 0x74, symBinAddr: 0x100003ACC, symSize: 0x48 }
+  - { offsetInCU: 0xF7, offset: 0x43B, size: 0x8, addend: 0x0, symName: _readPixels, symObjAddr: 0xBC, symBinAddr: 0x100003B14, symSize: 0xF0 }
+  - { offsetInCU: 0x157, offset: 0x49B, size: 0x8, addend: 0x0, symName: _allocatePixMemory, symObjAddr: 0x1AC, symBinAddr: 0x100003C04, symSize: 0x40 }
+  - { offsetInCU: 0x18D, offset: 0x4D1, size: 0x8, addend: 0x0, symName: _read, symObjAddr: 0x1EC, symBinAddr: 0x100003C44, symSize: 0x40 }
+  - { offsetInCU: 0x1C3, offset: 0x507, size: 0x8, addend: 0x0, symName: _readHeader, symObjAddr: 0x22C, symBinAddr: 0x100003C84, symSize: 0xC4 }
+  - { offsetInCU: 0x1F5, offset: 0x539, size: 0x8, addend: 0x0, symName: _write, symObjAddr: 0x2F0, symBinAddr: 0x100003D48, symSize: 0x4C }
+  - { offsetInCU: 0x235, offset: 0x579, size: 0x8, addend: 0x0, symName: _ckComment, symObjAddr: 0x33C, symBinAddr: 0x100003D94, symSize: 0x100 }
+  - { offsetInCU: 0x275, offset: 0x5B9, size: 0x8, addend: 0x0, symName: _freeMemory, symObjAddr: 0x43C, symBinAddr: 0x100003E94, symSize: 0x24 }
+...
