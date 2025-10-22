@@ -1,0 +1,15 @@
+The matrices can be multiplied with a minimum of 426 multiplications
+Matrix   1: 2×3
+Matrix   2: 3×5
+Matrix   3: 5×4
+Matrix   4: 4×4
+Matrix   5: 4×9
+Matrix   6: 9×9
+Matrix   7: 9×5
+    0    30    70   102   174   336   426 
+    0     0    60   108   216   459   594 
+    0     0     0    80   260   584   684 
+    0     0     0     0   144   468   584 
+    0     0     0     0     0   324   504 
+    0     0     0     0     0     0   405 
+    0     0     0     0     0     0     0 

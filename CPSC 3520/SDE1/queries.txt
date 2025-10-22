@@ -1,0 +1,15 @@
+sibling(X, alice).
+cousin(X, jake).
+grandparent(X, peter).
+uncle(X, emma).
+ancestor(robert, emma).
+aunt(X, peter).
+ancestor(robert, X).
+findall(X, (parent(X, _), grandparent(X, _)), List), sort(List, UniqueList).
+bigger_brother(X, emma).
+older_sibling(nancy, tom).
+brother_in_law(X, sarah).
+sister_in_law(X, chloe).
+nth_ancestor(2, Ancestor, tom).
+common_ancestor(peter, emma, Ancestor).
+common_ancestors(peter, emma, Ancestors).

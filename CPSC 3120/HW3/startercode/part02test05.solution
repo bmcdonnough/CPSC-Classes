@@ -1,0 +1,17 @@
+The matrices can be multiplied with a minimum of 903 multiplications
+Matrix   1: 5×4
+Matrix   2: 4×3
+Matrix   3: 3×7
+Matrix   4: 7×8
+Matrix   5: 8×8
+Matrix   6: 8×7
+Matrix   7: 7×5
+Matrix   8: 5×7
+    0    60   165   348   540   693   768   903 
+    0     0    84   264   456   612   693   822 
+    0     0     0   168   360   528   633   738 
+    0     0     0     0   448   840   880  1125 
+    0     0     0     0     0   448   600   880 
+    0     0     0     0     0     0   280   560 
+    0     0     0     0     0     0     0   245 
+    0     0     0     0     0     0     0     0 

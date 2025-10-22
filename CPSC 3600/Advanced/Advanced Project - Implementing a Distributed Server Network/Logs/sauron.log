@@ -1,0 +1,72 @@
+2024-05-02 22:36:05,290 - IRCServer[44101] - INFO - Launching client sauron...
+2024-05-02 22:36:05,299 - IRCServer[44101] - INFO - Sending message to b'\x80\x00\x00\x00l\x00\x00\x00\x00\x06\x00\x0bsauron"Test info"'
+2024-05-02 22:36:05,308 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x00\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,315 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x01\x00\x00\x00\x0b\x00\x00\x00l\x00\x00\x00\x00\x000Welcome to the Clemson Relay Chat network sauron'"
+2024-05-02 22:36:05,320 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00e\x00\x00\x00\x0b\x0c\x00\x0bfrodobaggins"Test info"'"
+2024-05-02 22:36:05,327 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00f\x00\x00\x00\x0b\t\x00\x0bsamgamgee"Test info"'"
+2024-05-02 22:36:05,334 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00g\x00\x00\x00\x0b\x06\x00\x0belrond"Test info"'"
+2024-05-02 22:36:05,342 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00h\x00\x00\x00\x0b\x0c\x00\x0bbilbobaggins"Test info"'"
+2024-05-02 22:36:05,350 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00i\x00\x00\x00\x0b\x08\x00\x0bperegrin"Test info"'"
+2024-05-02 22:36:05,359 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00j\x00\x00\x00\x0b\x08\x00\x0bmeriadoc"Test info"'"
+2024-05-02 22:36:05,368 - IRCServer[44101] - INFO - Sending message to Host ID #108 "b'\x80\x00\x00\x00k\x00\x00\x00\x0b\x05\x00\x0bbalin"Test info"'"
+2024-05-02 22:36:05,374 - IRCServer[44101] - INFO - Sending message to Host ID #7 "b'\x80\x00\x00\x00l\x00\x00\x00\x0b\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,385 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x0b\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,385 - IRCServer[44101] - INFO - Received message from Host ID #11 "b'\x01\x00\x00\x00\x0b\x00\x00\x00l\x00\x00\x00\x00\x000Welcome to the Clemson Relay Chat network sauron'"
+2024-05-02 22:36:05,391 - IRCServer[44101] - INFO - Sending message to Host ID #4 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,395 - IRCServer[44101] - INFO - Received message from Host ID #101 "b'\x80\x00\x00\x00e\x00\x00\x00\x0b\x0c\x00\x0bfrodobaggins"Test info"'"
+2024-05-02 22:36:05,400 - IRCServer[44101] - INFO - Sending message to Host ID #10 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,406 - IRCServer[44101] - INFO - Received message from Host ID #102 "b'\x80\x00\x00\x00f\x00\x00\x00\x0b\t\x00\x0bsamgamgee"Test info"'"
+2024-05-02 22:36:05,406 - IRCServer[44101] - INFO - Sending message to Host ID #105 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,414 - IRCServer[44101] - INFO - Received message from Host ID #103 "b'\x80\x00\x00\x00g\x00\x00\x00\x0b\x06\x00\x0belrond"Test info"'"
+2024-05-02 22:36:05,417 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,417 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,418 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x07\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,422 - IRCServer[44101] - INFO - Received message from Host ID #104 "b'\x80\x00\x00\x00h\x00\x00\x00\x0b\x0c\x00\x0bbilbobaggins"Test info"'"
+2024-05-02 22:36:05,425 - IRCServer[44101] - INFO - Sending message to Host ID #2 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,432 - IRCServer[44101] - INFO - Received message from Host ID #105 "b'\x80\x00\x00\x00i\x00\x00\x00\x0b\x08\x00\x0bperegrin"Test info"'"
+2024-05-02 22:36:05,432 - IRCServer[44101] - INFO - Sending message to Host ID #6 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,438 - IRCServer[44101] - INFO - Received message from Host ID #106 "b'\x80\x00\x00\x00j\x00\x00\x00\x0b\x08\x00\x0bmeriadoc"Test info"'"
+2024-05-02 22:36:05,441 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,442 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x04\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,445 - IRCServer[44101] - INFO - Received message from Host ID #107 "b'\x80\x00\x00\x00k\x00\x00\x00\x0b\x05\x00\x0bbalin"Test info"'"
+2024-05-02 22:36:05,446 - IRCServer[44101] - INFO - Sending message to Host ID #9 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,448 - IRCServer[44101] - INFO - Sending message to Host ID #1 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,450 - IRCServer[44101] - INFO - Sending message to Host ID #106 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,454 - IRCServer[44101] - INFO - Sending message to Host ID #5 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,456 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,456 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x06\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,461 - IRCServer[44101] - INFO - Sending message to Host ID #8 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,466 - IRCServer[44101] - INFO - Sending message to Host ID #103 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,471 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,472 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,472 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,473 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x02\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,477 - IRCServer[44101] - INFO - Sending message to Host ID #3 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,479 - IRCServer[44101] - INFO - Sending message to Host ID #107 "b'\x80\x00\x00\x00l\x00\x00\x00\x05\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,486 - IRCServer[44101] - INFO - Sending message to Host ID #101 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,488 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x05\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,491 - IRCServer[44101] - INFO - Sending message to Host ID #102 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,499 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,500 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,501 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x01\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,508 - IRCServer[44101] - INFO - Sending message to Host ID #104 "b'\x80\x00\x00\x00l\x00\x00\x00\x03\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:05,518 - IRCServer[44101] - INFO - Received message from Host ID #108 "b'\x80\x00\x00\x00l\x00\x00\x00\x03\x06\x00\x0bsauron"Test info"'"
+2024-05-02 22:36:07,794 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,805 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,805 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,806 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,819 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,824 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,831 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,832 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,839 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,845 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,846 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,849 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,850 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,853 - IRCServer[44101] - INFO - Server has disconnected!
+2024-05-02 22:36:07,924 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,951 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,955 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,958 - IRCServer[44101] - INFO - Cleaning up the server
+2024-05-02 22:36:07,958 - IRCServer[44101] - INFO - Server has disconnected!

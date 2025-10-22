@@ -7,6 +7,7 @@ int main(int argc, char* argv[]){
 
     do
     {
+        std::cout << "Hi there" << std::endl;
         std::cin >> option;
 
         if(option == "recommend"){

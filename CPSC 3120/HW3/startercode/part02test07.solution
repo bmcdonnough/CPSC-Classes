@@ -1,0 +1,11 @@
+The matrices can be multiplied with a minimum of 216 multiplications
+Matrix   1: 6×4
+Matrix   2: 4×6
+Matrix   3: 6×5
+Matrix   4: 5×2
+Matrix   5: 2×5
+    0   144   240   156   216 
+    0     0   120   108   148 
+    0     0     0    60   120 
+    0     0     0     0    50 
+    0     0     0     0     0 

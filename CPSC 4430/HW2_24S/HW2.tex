@@ -1,0 +1,164 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amsbsy,amssymb,verbatim,fullpage,ifthen,graphicx,bm,amsfonts,amsthm}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\newcommand{\mfile}[1]  {{\small \verbatiminput{./#1}}} % Jeff Fessler, input matlab file
+\newcommand{\tmop}[1]{\ensuremath{\operatorname{#1}}}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\A}{\mathcal{A}}
+\newcommand{\minimize}{\operatorname*{minimize\ }}
+\newcommand{\maximize}{\operatorname*{maximize}}
+
+%\newcommand{\mfile}[1]  {{\small \verbatiminput{./#1}}} 
+\newcommand{\mtx}[1]{\mathbf{#1}}
+\newcommand{\vct}[1]{\mathbf{#1}}
+\def \lg       {\langle}
+\def \rg       {\rangle}
+\def \mA {\mtx{A}}
+\def \mC {\mtx{C}}
+\def \mI {\mtx{I}}
+\def \mU {\mtx{U}}
+\def \mS {\mtx{S}}
+\def \mV {\mtx{V}}
+\def \mW {\mtx{W}}
+\def \mLambda {\mtx{\Lambda}}
+\def \mX {\mtx{X}}
+\def \mY {\mtx{Y}}
+\def \mZ {\mtx{Z}}
+\def \zero     {\mathbf{0}}
+\def \vzero    {\vct{0}}
+\def \vone    {\vct{1}}
+\def \vu {\vct{u}}
+\def \vv {\vct{v}}
+\def \vx {\vct{x}}
+\def \vy {\vct{y}}
+\def \vz {\vct{z}}
+\def \vphi {\vct{\phi}}
+\def \vmu {\vct{\mu}}
+\def \R {\mathbb{R}}
+
+
+\usepackage{xspace}
+
+\makeatletter
+\DeclareRobustCommand\onedot{\futurelet\@let@token\@onedot}
+\def\@onedot{\ifx\@let@token.\else.\null\fi\xspace}
+
+\def\eg{\emph{e.g}\onedot} \def\Eg{\emph{E.g}\onedot}
+\def\ie{\emph{i.e}\onedot} \def\Ie{\emph{I.e}\onedot}
+\def\cf{\emph{c.f}\onedot} \def\Cf{\emph{C.f}\onedot}
+\def\etc{\emph{etc}\onedot} \def\vs{\emph{vs}\onedot}
+\def\wrt{w.r.t\onedot} \def\dof{d.o.f\onedot}
+\def\etal{\emph{et al}\onedot} \def\st{\emph{s.t}\onedot}
+\pagestyle{plain}
+
+\title{{\bf Homework Set 2, CPSC 6430/4430}}
+\author{\Large\underline{LastName, FirstName}}
+\date{\textbf{\Large\textcolor{red}{Due 03/06/2024, 11:59PM EST}}}
+
+\begin{document}
+\maketitle
+
+\section*{Gradient Descent}
+We reconsider Linear regression:
+\begin{equation}
+	\min\limits_{\vx}\frac{1}{2}\|\mA\vx-\vy\|^2_2
+\end{equation}
+\begin{enumerate}
+	\item Please randomly generate $\mA\in\R^{10000\times 5000}$, compare the time consumption of closed solution given by $(\mA^T\mA)^{-1}\mA^T\vy$ and gradient descent method $\vx^{k+1}=\vx^k-\lambda\mA^T(\mA\vx-\vy)$ by constant stepsize $\lambda=1/\|\mA\|_F^2$ assuming 1000 iterations, which one is faster?
+	\item Please randomly generate $\mA\in\R^{100\times 50}$, compare the time consumption of closed solution given by $(\mA^T\mA)^{-1}\mA^T\vy$ and gradient descent method $\vx^{k+1}=\vx^k-\lambda\mA^T(\mA\vx-\vy)$ by constant stepsize $\lambda=1/\|\mA\|_F^2$ assuming 1000 iterations, which one is faster?
+\end{enumerate}
+(For any matrix $\mZ$, we define $\|\mZ\|_F^2:=\sum\limits_i\sum\limits_j\mZ_{ij}^2$.)
+%For PCA, from the perspective of minimizing reconstruction error, please derive the solution to $\minimize \limits_{\bm{\mu},\{\vv_i\},\mU_q} \sum_{i=1}^{N}\|\mX_i-\bm{\mu}-\mU_q \vv_i\|^2_2, \st \ \mU_q^T\mU_q=\mI_q$, where $\mX\in\R^{p\times N}, \bm{\mu}\in\R^p, \mU \in\R^{p\times q}, \vv_i \in \R^q$. 
+\newpage
+\section*{GD for Ridge Regression}
+For Ridge Regression:
+\begin{equation}
+	\min\limits_{\vx}\|\mA\vx-\vy\|^2_2+\gamma\|\vx\|^2_2,
+\end{equation}
+\begin{enumerate}
+	\item What is the derivative with respect to $\vx$?
+	\item What is the closed solution of ridge regression?
+	\item Assume $\mA\in\R^{100\times50}$, and stepsize $\lambda=0.5/(\gamma+\sigma_1(\mA\mA^T))$, where $\sigma_1(\mZ)$ denotes the largest singular value of $\mZ$. Please change $\lambda$ from $\{0.01, 0.1,1,10,100\}$ and plot the objective changes with update via gradient descent method (100 iterations), what do you find?
+\end{enumerate}
+\newpage
+\section*{Singular Value Decomposition}
+To save barbara.bmp image, usually we need a 512*512 matrix denoted by $\mX$, which is large. We seek to store the image as the product of three matrices $\bar{\mA},\bar{\mZ},\bar{\mC}$, such that $\bar{\mA}*\bar{\mZ}*\bar{\mC}^T\approx\mX$. To obtain the best $\bar{\mA},\bar{\mZ},\bar{\mC}$, we can do SVD for $\mX$ such that $\mA*\mZ*\mC^T=\mX$, so the best $\bar{\mA},\bar{\mZ},\bar{\mC}$ can be obtained by $\bar{\mA}=\mA(:,1:r),\bar{\mZ}=\mZ(1:r,1:r),\bar{\mC}=\mC(:,1:r)$. Now please choose different options of $r\in\{1,5,10,20,50,100,200,300,500,512\}$ and plot the recovered $\bar{\mX}=\bar{\mA}*\bar{\mZ}*\bar{\mC}^T$. Choose the optimal $r$ to you and determine the ratio of new storage over the original image $\mX$.
+%Consider linear regression problem:
+%\begin{equation}
+%	\min\limits_{\vx}\frac{1}{2}\|\mA\vx-\vy\|^2_2
+%\end{equation}
+%we say the optimal solution is $\vx^*=(\mA^T\mA)^{-1}\mA^T\vy$, which states that any $\vy$ projected to space $\mA$ is given by $\hat{\vy}=\mA\vx^*=\mA(\mA^T\mA)^{-1}\mA^T\vy$, and we define $\mA(\mA^T\mA)^{-1}\mA^T$ as the \textit{projection matrix} $\mathcal{P}$. 
+%\begin{itemize}
+%	\item Please verify $\mathcal{P}$ is symmetric
+%	\item Show that if each column of $\mA$ is linearly independent, then $\mA^T\mA$ is positive definite and thus invertible
+%	\item $\mathcal{P}^n=\mathcal{P}$ for any $n$ which is positive integer
+%	\item Eigenvalue of $\mathcal{P}$ is either $0$ or $1$
+%	\item $trace(\mathcal{P})=rank(\mathcal{P})$
+%\end{itemize}
+%After you have proved all the above, please use Python/Matlab to randomly generate $\mA$ (more rows than columns, say $\mA\in\R^{10\times5}$) and manually verify the correctness of the above conclusions.
+%Why might we prefer to minimize the sum of absolute residuals instead of the residual sum of squares for some data sets? Recall clustering method $K$-means when calculating the controid, it is to take the mean value of the datapoints belonging to the same cluster, so what about $K$-medians? What is its advantage over of $K$-means? Please use a synthetic (toy) experiment to illustrate your conclusion.
+% \vspace{4cm}
+%\section*{Problem 5}
+% Please show that:
+% \begin{enumerate}
+% 	\item if a matrix is symmetric, denote its eigenvalue and singular value as $\bm{\lambda}, \bm{\sigma}$ respectively (descending order in magnitude), then we have: $\bm{\lambda}^2=\bm{\sigma}^2$.
+% 	\item if the matrix is symmetric and positive definite, then $\bm{\lambda}=\bm{\sigma}$.
+% 	\item for PCA, the loading vectors can be directly computed from the $q$ columns of  $\mU$ where  $[\mU,\mS,\mU]=svd(\mX^T\mX)$, please show that any $[\pm\vu_1,\pm\vu_2,\dots,\pm\vu_q]$ will be equivalent to $[\vu_1,\vu_2,\dots,\vu_q]$ in terms of the same variance while satisying the orthonormality constraint.
+% \end{enumerate}  
+\newpage
+\section*{Principal Components from Dataset}
+Please determine the top 10 components of olivettifaces.mat dataset via  PCA and plot them.
+%Assume you have 5 observation samples $\{\{1,1\},\{2,3\},\{3,9\},\{4,15\},\{5,24\}\}$, now please use a Polynomial regression (order 3) model to approximate the samples, please plot the scatter of samples and then plot the function of the regression model. You are expected to output an image similar to the following:
+%\begin{figure}[h!]
+%	\centering
+%	\includegraphics[width=0.5\linewidth]{img_polynomial_regression}
+%	\caption{Fitting with Polynomial Regression.}
+%	\label{fig:imgpolynomialregression}
+%\end{figure}
+ \newpage
+ \section*{Optimization for Lasso}
+ In class, we mentioned Lasso model:
+ \begin{equation}\label{eq:lasso}
+ 	\min\limits_{\vx} \frac12\|\mA\vx-\vy\|_2^2+\lambda\|\vx\|_1,
+ \end{equation}
+where we define $\|\vz\|_2^2=\sum\limits_i\vz_i^2, \|\vx\|_1=\sum\limits_i|\vx_i|$. Different from linear regression or ridge regression, where we can obtain the optimal solution by taking the derivative with respect to $\vx$ and set to 0, the main drawback of Lasso model is $\|\cdot\|_1$ is not differentiable. To address the issue, we turn to a different optimization framework which is summarized as below:
+\begin{algorithm}
+	\caption{An algorithm to solve Eq.~(\ref{eq:lasso})}\label{alg:lasso}
+	\begin{algorithmic}
+%		\Require $n \geq 0$
+%		\Ensure $y = x^n$
+		\State $\vx \gets 0$
+		\State $t \gets 1/\sigma_1(\mA\mA^T)$
+		\State $k \gets 1$
+		\State $K \gets 100$
+		\While{$k \le K$}
+	%	\If{$N$ is even}
+		\State $\vz=\vx-t\mA^T(\mA\vx-\vy)$
+		\State $***for \ each \ element \ in \ \vz \ and \ \vx***$  %\Comment{This is a comment}
+	%	\ElsIf{$N$ is odd}
+		\State $\vx_i=sign(\vz_i)*max\{|\vz_i|-t\lambda,0\}$
+		%\State $N \gets N - 1$
+	%	\EndIf
+		\EndWhile
+	\end{algorithmic}
+\end{algorithm}
+\begin{enumerate}
+	\item Please implement the algorithm and plot the objective changes with update (for $\lambda=1$ and $\lambda=2$, respectively) where x-axis is the iteration and y-axis is the objective in Eq. (\ref{eq:lasso}).
+	\item Please compare the output from Algorithm~\ref{alg:lasso}  with Lasso in sklearn and check whether they are close. You can randomly generate $\mA\in\R^{100\times 50}, \vy\in\R^{100}$.
+\end{enumerate}
+% Please find the data \href{https://github.com/selva86/datasets/blob/master/Auto.csv}{here}, now  follow the steps below:
+%\begin{itemize}
+%	\item Extract column `cylinders', `displacement', `horsepower', `weight' and `acceleration' as the input features (plus the intercept term to form $\mA$) and column `mpg' as the  response ($\vy$).
+%	\item Split the data into training (first 300 samples) and testing subsets (the rest)
+%	\item Normalize (via \textit{StandardScaler}) the training input $\mA_{training}$.
+%	\item Use a multiple linear regression model to $\min\limits_{\vx}\frac{1}{2}\|\mA_{training}\vx-\vy_{training}\|^2_2$
+%	\item Make the prediction for testing set and calculate the \textit{Mean Squared Error} based on $\vy_{testing}$
+%\end{itemize}
+\end{document}

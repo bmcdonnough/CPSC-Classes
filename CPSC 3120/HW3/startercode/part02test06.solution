@@ -1,0 +1,15 @@
+The matrices can be multiplied with a minimum of 308 multiplications
+Matrix   1: 7×6
+Matrix   2: 6×6
+Matrix   3: 6×3
+Matrix   4: 3×3
+Matrix   5: 3×7
+Matrix   6: 7×2
+Matrix   7: 2×4
+    0   252   234   288   435   252   308 
+    0     0   108   162   288   168   216 
+    0     0     0    54   180    96   144 
+    0     0     0     0    63    60    84 
+    0     0     0     0     0    42    66 
+    0     0     0     0     0     0    56 
+    0     0     0     0     0     0     0 

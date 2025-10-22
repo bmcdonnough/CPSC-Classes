@@ -1,0 +1,9 @@
+The matrices can be multiplied with a minimum of 194 multiplications
+Matrix   1: 3×2
+Matrix   2: 2×8
+Matrix   3: 8×8
+Matrix   4: 8×3
+    0    48   176   194 
+    0     0   128   176 
+    0     0     0   192 
+    0     0     0     0 

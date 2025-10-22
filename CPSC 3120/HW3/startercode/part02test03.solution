@@ -1,0 +1,17 @@
+The matrices can be multiplied with a minimum of 1011 multiplications
+Matrix   1: 9×9
+Matrix   2: 9×3
+Matrix   3: 3×9
+Matrix   4: 9×7
+Matrix   5: 7×9
+Matrix   6: 9×7
+Matrix   7: 7×4
+Matrix   8: 4×3
+    0   243   486   621   864   999  1002  1011 
+    0     0   243   378   621   756   759   768 
+    0     0     0   189   378   567   651   687 
+    0     0     0     0   567   882   756   651 
+    0     0     0     0     0   441   504   462 
+    0     0     0     0     0     0   252   273 
+    0     0     0     0     0     0     0    84 
+    0     0     0     0     0     0     0     0 

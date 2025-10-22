@@ -1,0 +1,15 @@
+The matrices can be multiplied with a minimum of 372 multiplications
+Matrix   1: 2×8
+Matrix   2: 8×3
+Matrix   3: 3×7
+Matrix   4: 7×5
+Matrix   5: 5×8
+Matrix   6: 8×6
+Matrix   7: 6×3
+    0    48    90   160   240   336   372 
+    0     0   168   225   417   513   486 
+    0     0     0   105   225   369   414 
+    0     0     0     0   280   450   369 
+    0     0     0     0     0   240   264 
+    0     0     0     0     0     0   144 
+    0     0     0     0     0     0     0 

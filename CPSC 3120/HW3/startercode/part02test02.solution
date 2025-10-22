@@ -1,0 +1,7 @@
+The matrices can be multiplied with a minimum of 84 multiplications
+Matrix   1: 7×3
+Matrix   2: 3×7
+Matrix   3: 7×2
+    0   147    84 
+    0     0    42 
+    0     0     0 

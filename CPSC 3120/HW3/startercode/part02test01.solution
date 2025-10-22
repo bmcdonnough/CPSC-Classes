@@ -1,0 +1,7 @@
+The matrices can be multiplied with a minimum of 540 multiplications
+Matrix   1: 8×9
+Matrix   2: 9×7
+Matrix   3: 7×4
+    0   504   540 
+    0     0   252 
+    0     0     0 

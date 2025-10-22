@@ -1,0 +1,5 @@
+The matrices can be multiplied with a minimum of 90 multiplications
+Matrix   1: 6×5
+Matrix   2: 5×3
+    0    90 
+    0     0 

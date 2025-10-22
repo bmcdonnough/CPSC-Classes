@@ -1,0 +1,7 @@
+The matrices can be multiplied with a minimum of 432 multiplications
+Matrix   1: 7×9
+Matrix   2: 9×9
+Matrix   3: 9×3
+    0   567   432 
+    0     0   243 
+    0     0     0 

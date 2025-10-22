@@ -1,0 +1,17 @@
+The matrices can be multiplied with a minimum of 412 multiplications
+Matrix   1: 6×3
+Matrix   2: 3×8
+Matrix   3: 8×9
+Matrix   4: 9×6
+Matrix   5: 6×4
+Matrix   6: 4×2
+Matrix   7: 2×4
+Matrix   8: 4×2
+    0   144   378   486   522   384   432   412 
+    0     0   216   378   450   348   372   376 
+    0     0     0   432   504   300   364   332 
+    0     0     0     0   216   156   228   188 
+    0     0     0     0     0    48    96    80 
+    0     0     0     0     0     0    32    32 
+    0     0     0     0     0     0     0    16 
+    0     0     0     0     0     0     0     0 
