@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/benmcdonnough/Desktop/College/CPSC Classes/Database Management Systems (CPSC 4620)/Class Exercises/ClassExercise09/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0.jar"
+    ]
+}
